@@ -1,0 +1,144 @@
+﻿district_num;district;infra_cp_1000
+101;Affoltern;33,3
+102;Andelfingen;32,4
+103;Bülach;55,4
+104;Dielsdorf;41,3
+105;Hinwil;36
+106;Horgen;32,9
+107;Meilen;30,2
+108;Pfäffikon;40,3
+109;Uster;38,3
+110;Winterthur;51,1
+111;Dietikon;60,7
+112;Zürich;91,1
+241;Jura bernois;41,2
+242;Biel/Bienne;94,5
+243;Seeland;39,1
+244;Oberaargau;34,6
+245;Emmental;29,1
+246;Bern-Mittelland;58,1
+247;Thun;33,6
+248;Obersimmental-Saanen;28,2
+249;Frutigen-Niedersimmental;25,1
+250;Interlaken-Oberhasli;32,6
+311;Luzern-Stadt;83,1
+312;Luzern-Land;34,2
+313;Hochdorf;41,6
+314;Sursee;25,2
+315;Willisau;23
+316;Entlebuch;16,3
+400;Kt. Uri;22,2
+501;Einsiedeln;16,1
+502;Gersau;15,7
+503;Höfe;20,9
+504;Küssnacht (SZ);20,8
+505;March;23,3
+506;Schwyz;18,7
+600;Kt. Obwalden;34,1
+700;Kt. Nidwalden;23,7
+800;Kt. Glarus;29,9
+900;Kt. Zug;33,4
+1001;La Broye;35,6
+1002;La Glâne;24,1
+1003;La Gruyère;36,8
+1004;La Sarine;45
+1005;See / Lac;34,5
+1006;Sense;22,8
+1007;La Veveyse;23,9
+1101;Gäu;57,2
+1102;Thal;45,4
+1103;Bucheggberg;13,5
+1104;Dorneck;35,8
+1105;Gösgen;31,7
+1106;Wasseramt;48,7
+1107;Lebern;45,2
+1108;Olten;58,8
+1109;Solothurn;155,5
+1110;Thierstein;22,8
+1200;Kt. Basel-Stadt;111,4
+1301;Arlesheim;44,9
+1302;Laufen;32,5
+1303;Liestal;46,8
+1304;Sissach;24,6
+1305;Waldenburg;20,1
+1401;Oberklettgau;23,1
+1402;Reiat;28,8
+1403;Schaffhausen;49,4
+1404;Schleitheim;21,9
+1405;Stein;49,3
+1406;Unterklettgau;27,4
+1501;Hinterland;40,7
+1502;Mittelland;21
+1503;Vorderland;22,3
+1600;Kt. Appenzell i.Rh.;20,2
+1721;St. Gallen;50,2
+1722;Rorschach;37,7
+1723;Rheintal;32,4
+1724;Werdenberg;28,8
+1725;Sarganserland;31,2
+1726;See-Gaster;27,7
+1727;Toggenburg;21,3
+1728;Wil;37,4
+1841;Albula;31,8
+1842;Bernina;12,1
+1843;Engiadina Bassa/Val Müstair;21,2
+1844;Imboden;33,3
+1845;Landquart;27,2
+1846;Maloja;30,3
+1847;Moesa;21,6
+1848;Plessur;63,1
+1849;Prättigau/Davos;21
+1850;Surselva;15,2
+1851;Viamala;24,2
+1901;Aarau;43
+1902;Baden;32,1
+1903;Bremgarten;30,1
+1904;Brugg;33,6
+1905;Kulm;32,6
+1906;Laufenburg;22,1
+1907;Lenzburg;33,5
+1908;Muri;21,9
+1909;Rheinfelden;21,8
+1910;Zofingen;39,3
+1911;Zurzach;25,2
+2011;Arbon;41,3
+2012;Frauenfeld;26,4
+2013;Kreuzlingen;39,9
+2014;Münchwilen;25,3
+2015;Weinfelden;34,7
+2101;Bellinzona;34,9
+2102;Blenio;23
+2103;Leventina;29,8
+2104;Locarno;31,3
+2105;Lugano;34,3
+2106;Mendrisio;54,6
+2107;Riviera;27,2
+2108;Vallemaggia;21,5
+2221;Aigle;55,6
+2222;Broye-Vully;50,8
+2223;Gros-de-Vaud;28,3
+2224;Jura-Nord vaudois;48
+2225;Lausanne;78,3
+2226;Lavaux-Oron;36,6
+2227;Morges;40,2
+2228;Nyon;42,5
+2229;Ouest lausannois;53,5
+2230;Riviera-Pays-d'Enhaut;50,6
+2301;Brig;24,7
+2302;Conthey;36,7
+2303;Entremont;25,3
+2304;Goms;22,2
+2305;Hérens;26,9
+2306;Leuk;26
+2307;Martigny;43,4
+2308;Monthey;36,6
+2309;Raron;16,6
+2310;Saint-Maurice;37
+2311;Sierre;40,5
+2312;Sion;62,7
+2313;Visp;29,5
+2400;Cant. de Neuchâtel;58,2
+2500;Cant. de Genève;73,1
+2601;Delémont;38,4
+2602;Les Franches-Montagnes;28,5
+2603;Porrentruy;40,7
